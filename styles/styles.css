@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: red;
+  background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
 
@@ -27,8 +27,7 @@ body {
   }
 }
 
-#footer {
-  position: fixed;
+footer {
   bottom: 0;
   width: 100%;
 }/*# sourceMappingURL=styles.css.map */
